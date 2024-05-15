@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fond{
+    background-image: url(../images/angel-jimenez.jpg);
+    width: 1860px;
+    height: 1000px;
+    background-size: cover;
+    background-repeat: repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.music{
+    color: aliceblue;
+    font-size: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+}
+
+.cod{
+    flex-direction: column;
+    width: 1000px;
+    justify-content: space-between;
+    margin-left: 140px;
+    margin-top: 450px;
+}
+.cid{
+    flex-direction: column;
+    margin-top: 10px;
+    width: 1000px;
+    
+}
+.todo{
+    display: flex;
+    flex-direction: row;
+}
+
+h1{
+    font-size: 60px;
+}
+
+p{
+    font-size: 30px;
+    margin-top: 50px;
+}
+
+img{
+    margin-top: 250px;
+    margin-left: 50px;
+    height: 800px;
+    width: 650px;
+}
+
+.go{
+    border-radius: 15px;
+    background-color: brown;
+    text-decoration: none;
+    margin-top: 100px;
+    font-size: 30px;
+}
+.of{
+    margin-top: 270px;
+}
+
+.foto2{
+    margin-left: 100px;
+}
+.fond1{
+    background-image: url(../images/john-raptis.png);
+    width: 1860px;
+    height: 700px;
+    background-size: cover;
+    background-repeat: repeat;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+    margin-top: 50px;
+    
+
+}
+.fond1 div{
+    width: 50%;
+}
+.rojito{
+    background-color: red;
+    width: 1860px;
+    height: 700px;
+
+}
+
+.columna{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1700px;
+    gap: 50px;
+    color: whitesmoke;
+    
+}
+
+.fin{
+    display: flex;
+    color: aliceblue;
+}
+
+.end{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    margin-left: 800px;
+    
+}
+.boton{
+    margin-top: 11px;
+}
+
+.go{
+    display: flex;
+    background-color: rgb(233, 48, 72);
+    color: aliceblue;
+    text-decoration: none;
+    justify-content: center;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    margin-top: 10px;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.color{
+    color: rgba(207, 4, 82, 0.89);
+}
